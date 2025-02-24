@@ -1,6 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bill-gates-biography-review/","updated":"2025-02-16T10:11:11.082+05:30"}
+{"dg-publish":true,"permalink":"/bill-gates-biography-review/","updated":"2025-02-24T09:57:14.837+05:30"}
 ---
 
-I am trying again
+Bill Gates: The Giant of a [David/Goliath]?
+
+
+
+
 
