@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/bill-gates-biography-review/","updated":"2025-02-24T09:58:09.408+05:30"}
+{"dg-publish":true,"permalink":"/bill-gates-biography-review/","updated":"2025-02-24T09:58:21.597+05:30"}
 ---
 
 Bill Gates: The Giant of a [David/Goliath]?
 
-
-Bill Gates: David or Goliath?
 
 I was excited when this book was announced. In fact so much so that I pre-ordered it!
 Bill Gates’ life is more or less available in the public domain but I had an urge to hear from the horse’s mouth.
